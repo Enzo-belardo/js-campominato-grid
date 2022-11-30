@@ -1,0 +1,13 @@
+#container{
+    width: 500px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    height: 500px;
+}
+
+.square{
+    width:calc(100% / 11);
+    border: solid 1px black;
+
+}
